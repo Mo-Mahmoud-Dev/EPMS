@@ -43,7 +43,7 @@ Built with **TypeScript**, vanilla DOM APIs, and **Chart.js** — no frontend fr
 ## Getting Started
 
 ### The Easiest way
-To access the website directly [Click Here](https://code-mo-dev.github.io/EPMS/)
+To access the website directly [Click Here](https://mo-mahmoud-dev.github.io/EPMS/)
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (for the TypeScript compiler)
